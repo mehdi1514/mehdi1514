@@ -12,7 +12,7 @@ Student at Veermata Jijabai Technological Institute</a><img src="https://media.g
 
 ```javascript
 const mehdi = {
-  interestedIn: ["Mobile App Dev", "Web Dev", "ML"]
+  interestedIn: ["Mobile App Dev", "Web Dev", "ML"],
   languages: [Python, Dart, C++, Java, Javascript, Typescript, HTML, CSS],
   techlogiesUsed: ["Flutter", "Angular", "NodeJS"],
   databases: ["MySQL", "MongoDB", "Cloud Firestore"],
