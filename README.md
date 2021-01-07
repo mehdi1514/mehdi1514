@@ -20,7 +20,6 @@ const mehdi = {
 	  coreTeamMember: "CoC VJTI",
 	  appDevHead: "DSC VJTI"
   },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
