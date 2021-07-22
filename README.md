@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Mohammed Mehdi! <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="230">
-<p><em>Incoming Summer Analyst at Barclays'21<img src="https://1000logos.net/wp-content/uploads/2016/10/Barclays-logo.png" width="40"></br><br/>
+<p><em>Summer Intern at Barclays'21<img src="https://1000logos.net/wp-content/uploads/2016/10/Barclays-logo.png" width="40"></br><br/>
 Student at Veermata Jijabai Technological Institute</a><img src="https://media.giphy.com/media/kc5KiPcBjdYxdJ6Jrt/giphy.gif" width="30"> 
 </em></p>
 
@@ -13,7 +13,7 @@ Student at Veermata Jijabai Technological Institute</a><img src="https://media.g
 ```javascript
 const mehdi = {
   interestedIn: ["Mobile App Dev", "Web Dev", "ML"],
-  languages: [Python, Dart, C++, Java, Javascript, Typescript, HTML, CSS],
+  languages: ["C++", "Dart", "Java", "Python", "Typescript", "HTML", "CSS", "Javascript"],
   techlogiesUsed: ["Flutter", "Angular", "NodeJS"],
   databases: ["MySQL", "MongoDB", "Cloud Firestore"],
   techCommunities: {
