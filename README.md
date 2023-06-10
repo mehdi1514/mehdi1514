@@ -1,24 +1,24 @@
 
 <h2> Hi, I'm Mohammed Mehdi! <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="230">
-<p><em>Former Summer Intern at Barclays'21<img src="https://1000logos.net/wp-content/uploads/2016/10/Barclays-logo.png" width="40"></br><br/>
 Graduated from Veermata Jijabai Technological Institute</a><img src="https://media.giphy.com/media/kc5KiPcBjdYxdJ6Jrt/giphy.gif" width="30"> 
 </em></p>
 
-
+<p><em>Former Summer Intern at Barclays'21</br><br/>
+<p><em>Developer Associate at SAP Labs India</br><br/>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const mehdi = {
-  interestedIn: ["Mobile App Dev", "Web Dev", "ML"],
-  languages: ["C++", "Dart", "Java", "Python", "Typescript", "HTML", "CSS", "Javascript"],
+  interestedIn: ["Cross Platform App Dev", "Web Dev", "ML", "DevOps"],
+  languages: ["C++", "Dart", "Java", "Python", "Typescript", "Javascript"],
   techlogiesUsed: ["Flutter", "Angular", "NodeJS"],
   databases: ["MySQL", "MongoDB", "Cloud Firestore"],
   techCommunities: {
-	  coreTeamMember: "CoC VJTI",
-	  appDevHead: "DSC VJTI"
+	  formerCoreTeamMember: "CoC VJTI",
+	  formerMember: "DSC VJTI"
   },
 }
 ```
