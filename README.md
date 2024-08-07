@@ -1,11 +1,14 @@
 
 <h2> Hi, I'm Mohammed Mehdi! <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="230">
-Graduated from Veermata Jijabai Technological Institute</a><img src="https://media.giphy.com/media/kc5KiPcBjdYxdJ6Jrt/giphy.gif" width="30"> 
+
+Graduated from Veermata Jijabai Technological Institute<img src="https://media.giphy.com/media/kc5KiPcBjdYxdJ6Jrt/giphy.gif" width="30"> 
 </em></p>
 
 <p><em>Former Summer Intern at Barclays'21</br><br/>
-<p><em>Developer Associate at SAP Labs India</br><br/>
+<p><em>Former Developer Associate at SAP Labs India</br><br/>
+
+<p><em>Pursuing Msc in Advanced Computer Science at the University of Manchester<img src="https://www.staffnet.manchester.ac.uk/brand/visual-identity/logo/logo_big.gif" width="30">  </br><br/>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
